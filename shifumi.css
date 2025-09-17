@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+    font-size: 22px;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.button {
+    width: 200px;
+    height: 40px;
+    font-size: 12px;
+    background-color: cyan;
+    border-radius: 2px;
+    border-color: blue;
+}
